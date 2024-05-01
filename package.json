@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node ./websocket/backend/server.js"
+    "dev": "node ./backend/server.js"
   },
   "keywords": [],
   "author": "",
